@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Custom\\": "app/"
+    }
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^4.3"
+  },
+  "require": {
+    "vincepare/favicon-downloader": "^1.0",
+    "ellumilel/php-excel-writer": "^0.1.7"
+  }
+}
